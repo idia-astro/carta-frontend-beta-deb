@@ -1,5 +1,5 @@
-carta-frontend-ng (2021.2.9-1) focal; urgency=medium
+carta-frontend-beta (2021.2.25-1~focal1) focal; urgency=medium
 
-  * Initial release.
+  * Initial release of renamed package, built from latest development version.
 
- -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 09 Feb 2021 16:41:36 +0200
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 25 Feb 2021 15:56:28 +0200

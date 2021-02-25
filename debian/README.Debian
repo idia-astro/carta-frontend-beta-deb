@@ -1,4 +1,4 @@
-carta-frontend-ng for Debian
+carta-frontend-beta for Debian
 
 This is the Debian package of the development version of the CARTA frontend. The carta-frontend package is used for release versions, starting with release 2.0. This package is built from the pre-compiled frontend code.  
 
