@@ -1,4 +1,4 @@
-carta-frontend-beta (2021.2.25-1~focal1) focal; urgency=medium
+carta-frontend-beta (2021.2.25+fixed1-1~focal1) focal; urgency=medium
 
   * Initial release of renamed package, built from latest development version.
 
