@@ -1,3 +1,9 @@
+carta-frontend-beta (2021.3.5b-1~focal1) focal; urgency=medium
+
+  * Rebuild from latest development frontend tag (npm package 2.0.0-dev.21.3.5b) 
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 05 Mar 2021 11:55:54 +0200
+
 carta-frontend-beta (2021.2.25+fixed1-2~focal1) focal; urgency=medium
 
   * Rebuild to be installable in parallel with release version.
