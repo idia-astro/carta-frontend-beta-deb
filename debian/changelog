@@ -1,3 +1,15 @@
+carta-frontend-beta (2.0+2021.3.5b-1~focal2) focal; urgency=medium
+
+  * Rebuild to stop renaming the path and add a clash with the release package.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 16 Mar 2021 16:00:44 +0200
+
+carta-frontend-beta (2.0+2021.3.5b-1~focal1) focal; urgency=medium
+
+  * Rebuild for new PPA with revised version numbering.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 16 Mar 2021 11:50:56 +0200
+
 carta-frontend-beta (2021.3.5b-1~focal1) focal; urgency=medium
 
   * Rebuild from latest development frontend tag (npm package 2.0.0-dev.21.3.5b) 
