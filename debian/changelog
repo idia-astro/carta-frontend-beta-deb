@@ -1,3 +1,9 @@
+carta-frontend-beta (2.0+2021.3.5b-1~bionic1) bionic; urgency=medium
+
+  * Backport to Bionic.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 19 Mar 2021 13:21:05 +0200
+
 carta-frontend-beta (2.0+2021.3.5b-1~focal2) focal; urgency=medium
 
   * Rebuild to stop renaming the path and add a clash with the release package.
