@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.47dfddf8.chunk.css",
-    "main.js": "./static/js/main.16906301.chunk.js",
+    "main.css": "./static/css/main.de4bfffc.chunk.css",
+    "main.js": "./static/js/main.b1aafc3c.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0687ce34.js",
     "static/css/2.88a55659.chunk.css": "./static/css/2.88a55659.chunk.css",
-    "static/js/2.0df9f13c.chunk.js": "./static/js/2.0df9f13c.chunk.js",
+    "static/js/2.eeccf474.chunk.js": "./static/js/2.eeccf474.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.0df9f13c.chunk.js.LICENSE.txt": "./static/js/2.0df9f13c.chunk.js.LICENSE.txt",
+    "static/js/2.eeccf474.chunk.js.LICENSE.txt": "./static/js/2.eeccf474.chunk.js.LICENSE.txt",
     "static/js/index.a2da4ca9.worker.js": "./static/js/index.a2da4ca9.worker.js",
     "static/media/allmaps.png": "./static/media/allmaps.ac43eb19.png",
     "static/media/carta_logo.png": "./static/media/carta_logo.5ec2e273.png",
@@ -16,6 +16,7 @@
     "static/media/contour_button_d.19bb31ae.png": "./static/media/contour_button_d.19bb31ae.png",
     "static/media/export_png_button.ad3d7040.png": "./static/media/export_png_button.ad3d7040.png",
     "static/media/export_png_button_d.3314b4ac.png": "./static/media/export_png_button_d.3314b4ac.png",
+    "static/media/gamma.png": "./static/media/gamma.90eaaa41.png",
     "static/media/head_animator_button.cfa001f3.png": "./static/media/head_animator_button.cfa001f3.png",
     "static/media/head_animator_button_d.5f3989e8.png": "./static/media/head_animator_button_d.5f3989e8.png",
     "static/media/head_catalogue_button.89097734.png": "./static/media/head_catalogue_button.89097734.png",
@@ -53,6 +54,9 @@
     "static/media/image_overlay_demo_d.abbb3738.png": "./static/media/image_overlay_demo_d.abbb3738.png",
     "static/media/image_tools.3b0bc13d.png": "./static/media/image_tools.3b0bc13d.png",
     "static/media/image_tools_d.86185081.png": "./static/media/image_tools_d.86185081.png",
+    "static/media/linear.png": "./static/media/linear.a0a2adc3.png",
+    "static/media/log.png": "./static/media/log.1b868671.png",
+    "static/media/power.png": "./static/media/power.67af1163.png",
     "static/media/region_button.a95e8b71.png": "./static/media/region_button.a95e8b71.png",
     "static/media/region_button_d.7533887d.png": "./static/media/region_button_d.7533887d.png",
     "static/media/smoothing_SG.51c7ccc2.png": "./static/media/smoothing_SG.51c7ccc2.png",
@@ -67,6 +71,8 @@
     "static/media/smoothing_gaussian_d.1d6a6c39.png": "./static/media/smoothing_gaussian_d.1d6a6c39.png",
     "static/media/smoothing_hanning.a9ee32b3.png": "./static/media/smoothing_hanning.a9ee32b3.png",
     "static/media/smoothing_hanning_d.068e1feb.png": "./static/media/smoothing_hanning_d.068e1feb.png",
+    "static/media/sqrt.png": "./static/media/sqrt.c22078c4.png",
+    "static/media/squared.png": "./static/media/squared.c3b27aed.png",
     "static/media/under_construction.b72aea0a.png": "./static/media/under_construction.b72aea0a.png",
     "static/media/wcs_match_button.0c2c1335.png": "./static/media/wcs_match_button.0c2c1335.png",
     "static/media/wcs_match_button_d.9bf58e92.png": "./static/media/wcs_match_button_d.9bf58e92.png",
@@ -76,8 +82,8 @@
   "entrypoints": [
     "static/js/runtime-main.0687ce34.js",
     "static/css/2.88a55659.chunk.css",
-    "static/js/2.0df9f13c.chunk.js",
-    "static/css/main.47dfddf8.chunk.css",
-    "static/js/main.16906301.chunk.js"
+    "static/js/2.eeccf474.chunk.js",
+    "static/css/main.de4bfffc.chunk.css",
+    "static/js/main.b1aafc3c.chunk.js"
   ]
 }
