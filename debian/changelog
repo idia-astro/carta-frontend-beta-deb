@@ -1,3 +1,9 @@
+carta-frontend-beta (2.0+2021.5.10-1~focal1) focal; urgency=medium
+
+  * Bumped version to 2.0.0-beta.0 for the 2.0 beta.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Mon, 10 May 2021 08:56:39 +0200
+
 carta-frontend-beta (2.0+2021.4.27-1~focal1) focal; urgency=medium
 
   * Rebuild from latest upstream version.
