@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.e6d924fd.chunk.css",
-    "main.js": "./static/js/main.7ea34e9c.chunk.js",
+    "main.css": "./static/css/main.446f8759.chunk.css",
+    "main.js": "./static/js/main.c50ff0c9.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0687ce34.js",
     "static/css/2.88a55659.chunk.css": "./static/css/2.88a55659.chunk.css",
-    "static/js/2.f40d39d9.chunk.js": "./static/js/2.f40d39d9.chunk.js",
+    "static/js/2.7eab14dd.chunk.js": "./static/js/2.7eab14dd.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.f40d39d9.chunk.js.LICENSE.txt": "./static/js/2.f40d39d9.chunk.js.LICENSE.txt",
+    "static/js/2.7eab14dd.chunk.js.LICENSE.txt": "./static/js/2.7eab14dd.chunk.js.LICENSE.txt",
     "static/js/index.a2da4ca9.worker.js": "./static/js/index.a2da4ca9.worker.js",
     "static/media/allmaps.png": "./static/media/allmaps.ac43eb19.png",
     "static/media/carta_logo.png": "./static/media/carta_logo.5ec2e273.png",
@@ -14,6 +14,14 @@
     "static/media/catalogue_selection_button_d.d60042bc.png": "./static/media/catalogue_selection_button_d.d60042bc.png",
     "static/media/contour_button.57f566f7.png": "./static/media/contour_button.57f566f7.png",
     "static/media/contour_button_d.19bb31ae.png": "./static/media/contour_button_d.19bb31ae.png",
+    "static/media/demo_catalog_marker_mapping.6bd1d8e4.png": "./static/media/demo_catalog_marker_mapping.6bd1d8e4.png",
+    "static/media/demo_catalog_marker_mapping_d.d695efa3.png": "./static/media/demo_catalog_marker_mapping_d.d695efa3.png",
+    "static/media/demo_image_overlay_Size_mapping.236ff2fd.png": "./static/media/demo_image_overlay_Size_mapping.236ff2fd.png",
+    "static/media/demo_image_overlay_Size_mapping_d.a1caa573.png": "./static/media/demo_image_overlay_Size_mapping_d.a1caa573.png",
+    "static/media/demo_image_overlay_color_mapping.d08dc414.png": "./static/media/demo_image_overlay_color_mapping.d08dc414.png",
+    "static/media/demo_image_overlay_color_mapping_d.3cb658ef.png": "./static/media/demo_image_overlay_color_mapping_d.3cb658ef.png",
+    "static/media/demo_image_overlay_orientation_mapping.5bf01bb0.png": "./static/media/demo_image_overlay_orientation_mapping.5bf01bb0.png",
+    "static/media/demo_image_overlay_orientation_mapping_d.aaadbb04.png": "./static/media/demo_image_overlay_orientation_mapping_d.aaadbb04.png",
     "static/media/export_png_button.ad3d7040.png": "./static/media/export_png_button.ad3d7040.png",
     "static/media/export_png_button_d.3314b4ac.png": "./static/media/export_png_button_d.3314b4ac.png",
     "static/media/gamma.png": "./static/media/gamma.90eaaa41.png",
@@ -50,8 +58,8 @@
     "static/media/index.scss": "./static/media/icons-20.cde033c5.eot",
     "static/media/image_info_button.2ba534d4.png": "./static/media/image_info_button.2ba534d4.png",
     "static/media/image_info_button_d.ed7099e2.png": "./static/media/image_info_button_d.ed7099e2.png",
-    "static/media/image_overlay_demo.abbb3738.png": "./static/media/image_overlay_demo.abbb3738.png",
-    "static/media/image_overlay_demo_d.abbb3738.png": "./static/media/image_overlay_demo_d.abbb3738.png",
+    "static/media/image_overlay_demo.60946b95.png": "./static/media/image_overlay_demo.60946b95.png",
+    "static/media/image_overlay_demo_d.c9072eba.png": "./static/media/image_overlay_demo_d.c9072eba.png",
     "static/media/image_tools.3b0bc13d.png": "./static/media/image_tools.3b0bc13d.png",
     "static/media/image_tools_d.86185081.png": "./static/media/image_tools_d.86185081.png",
     "static/media/linear.png": "./static/media/linear.a0a2adc3.png",
@@ -82,8 +90,8 @@
   "entrypoints": [
     "static/js/runtime-main.0687ce34.js",
     "static/css/2.88a55659.chunk.css",
-    "static/js/2.f40d39d9.chunk.js",
-    "static/css/main.e6d924fd.chunk.css",
-    "static/js/main.7ea34e9c.chunk.js"
+    "static/js/2.7eab14dd.chunk.js",
+    "static/css/main.446f8759.chunk.css",
+    "static/js/main.c50ff0c9.chunk.js"
   ]
 }
