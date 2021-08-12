@@ -1,3 +1,11 @@
+carta-frontend-beta (3.0+2021.8.12-1~focal1) focal; urgency=medium
+
+  * Bumped version to 3.0.0-beta.1b.
+  * Fixed:
+    - Fixed crash caused by missing region length calculation.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 12 Aug 2021 09:53:05 +0200
+
 carta-frontend-beta (3.0+2021.8.10-1~focal1) focal; urgency=medium
 
   * Bumped version to 3.0.0-beta.1.
