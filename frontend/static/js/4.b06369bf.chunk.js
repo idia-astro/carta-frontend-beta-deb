@@ -1,1 +1,0 @@
-(this["webpackJsonpcarta-frontend"]=this["webpackJsonpcarta-frontend"]||[]).push([[4],{1012:function(n,t,c){},1016:function(n,t,c){"use strict";c.r(t);var e=c(4),r=(c(1012),c(0));t.default=n=>Object(r.jsx)(e.Fragment,{children:n.children})}}]);
