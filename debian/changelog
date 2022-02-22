@@ -1,3 +1,9 @@
+carta-frontend-beta (3.0+2022.2.22-1~focal1) focal; urgency=medium
+
+  * Bumped version to latest dev (after the merge of the migration of the scripting interface from gRPC to HTTP). Build from npm package version 3.0.0-dev.20220222.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 22 Feb 2022 11:35:54 +0200
+
 carta-frontend-beta (3.0+2021.12.10-1~focal1) focal; urgency=medium
 
   * Bumped version to 3.0.0-beta.2b.
