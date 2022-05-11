@@ -1,3 +1,34 @@
+carta-frontend-beta (3.0+2022.5.11-1~focal1) focal; urgency=medium
+
+  * Bumped version to 3.0.0-beta.3.
+  * Added
+    - Added cursor information to the histogram widget (#1762).
+    - The ability to load files with LEL (lattice expression language) expressions (#1264).
+    - The ability to set a custom rest frequency for saving subimages (#1653).
+    - The ability to load complex images with a dropdown menu in the file browser dialog (#1492).
+    - Added image fitting widget for multiple 2D Gaussian component fitting (#1397).
+    - Added computed polarizations (Polarized intensity, Polarized angle ...) in polarization selectors (#714).
+    - Vector field rendering is supported in the image view widget. Data configuration and stlying can be set in the vector overlay dialog (#1155).
+  * Changed
+    - Optimization to the region list widget with a large number of regions (#1252).
+    - Optimization to loading images with a million channels (#1774).
+    - Limited the filename length of downloaded png files to around 200 characters (#1501).
+    - Enabled text selection for region info and catalog info when loading/saving regions and loading catalogs (#1795).
+  * Fixed
+    - Corrected hard reload shortcut suggestions for macOS (#1623).
+    - Fixed region re-rendering with click to pan method (#1751).
+    - Fixed the initial spectral range of the moment generator (#1749).
+    - Fixed crash when loading file with fewer axes than CDELT entries (#1769).
+    - Fixed crash with empty line plots (#1772).
+    - Fixed issue with PV image rendering (#1708).
+    - Tab title of image viewer is reset when all images are closed (#1686).
+    - Fixed issue with multiple-panel switch of the image viewer (#1676).
+    - Fixed issue with the reset button in the spectral line query widget (#1741).
+    - Fixed issue with catalog SIMBAD query after cancelling (#1750).
+    - Fixed extra catalog overlay sources at the origin (#1823).
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 11 May 2022 13:24:00 +0200
+
 carta-frontend-beta (3.0+2022.2.22-1~focal1) focal; urgency=medium
 
   * Bumped version to latest dev (after the merge of the migration of the scripting interface from gRPC to HTTP). Build from npm package version 3.0.0-dev.20220222.
