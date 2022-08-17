@@ -1,3 +1,9 @@
+carta-frontend-beta (3.0+2022.8.17-1~bionic1) bionic; urgency=medium
+
+  * Backported fixes from 3.0.0 release.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 17 Aug 2022 23:57:13 +0200
+
 carta-frontend-beta (3.0+2022.8.9-1~bionic1) bionic; urgency=medium
 
   * Bumped version to 3.0.0-rc.0.
