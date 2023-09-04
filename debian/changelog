@@ -1,3 +1,46 @@
+carta-frontend-beta (4.0+2023.9.4-1~focal1) focal; urgency=medium
+
+  * Bumped version to 4.0.0-rc.0.
+  * Added
+    - Added a shortcut button for image annotation (#2167).
+    - Added support for AIPS beam images (#2164).
+    - Added telemetry data for spectral profile, PV, moment, and catalog creation. (#2208).
+    - Added an increase to the default compression ratio to 32 when the header unit of the image is km/s (#1223).
+    - Added a toggle in the moment generator to match generated image(s) (#2121).
+    - Added automatically generated documentation website.
+    - Added the ability to share a workspace via URL when using the frontend via the controller.
+  * Changed
+    - Changed the default title string in the image viewer (#2168).
+    - Modified text annotation textbox to stay the same dimension as user zoom the image (#2162).
+    - Disabled spell check in text input (#2138).
+    - Support animation playback with matched images in multi-panel view (#1860).
+    - Modified spectral matching type selector in Image List Settings won't affect global preferences (#2098).
+    - Enabled enter key to trigger filtering in the filter fields, and modified the buttons in the spectral line query widget and catalog widget (#2046).
+    - Switched the Splatalogue URL from test to production (#2238).
+    - Changed image fitting center position error unit from arcsecond to second when the format is H:M:S; added integrated flux information in the fitting result.
+  * Fixed
+    - Fixed bug where line region computation width cannot be changed in spatial profile setting widget (#2000).
+    - Fixed when multiple images are open, PV generator can only produce PV preview with live update for one of the images (#2171).
+    - Fixed incorrect beam-related and frequency-related intensity unit conversions in the spectral profiler (#2033).
+    - Fixed line region anchor rotation degree when the image has non-square pixels (#1732).
+    - Fixed the blank screen when using layout with histogram widget (#2178).
+    - Fixed the problem of resuming LEL images (#1226).
+    - Fixed tsv and txt file export naming (#1987).
+    - Fixed the spectral line offset by correcting the redshift factor calculation (#1327).
+    - Fixed the alignment in workspace dialog (#2155).
+    - Fixed the spectral axis for images with headers in `CDi_j` format (#2144).
+    - Fixed spatial matching error in sub-milliarcsecond scale (#1734).
+    - Fixed inconsistent region coordinate format when images are spatially matched (#2189).
+    - Fixed the right ascension label in the image view (#2192).
+    - Fixed the multi-spectral-profile intensity unit conversion (#1758).
+    - Fixed the Jy/beam to K intensity unit conversion (#1907).
+    - Fixed the blinking toolbar in the image view during animating images (#2163).
+    - Fixed image arithmetic bug when there are square brackets in the expression (#2220).
+    - Fixed missing tiles and distorted tiles during and after animation. (#1988).
+    - Fixed the stuck of stokes animation at low frame rates (#1293).
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Mon, 04 Sep 2023 12:07:24 +0200
+
 carta-frontend-beta (4.0+2023.5.4-1~focal1) focal; urgency=medium
 
   * Bumped version to 4.0.0-beta.1.
