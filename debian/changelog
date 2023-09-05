@@ -1,6 +1,6 @@
 carta-frontend-beta (4.0+2023.9.4-1~jammy1) jammy; urgency=medium
 
-  * Bumped version to 4.0.0-rc.0.
+  * Bumped version to 4.0.0.
   * Added
     - Added a shortcut button for image annotation (#2167).
     - Added support for AIPS beam images (#2164).
