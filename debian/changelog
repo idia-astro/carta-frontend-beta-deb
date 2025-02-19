@@ -1,3 +1,12 @@
+carta-frontend-beta (5.0+2025.2.19-1~jammy1) jammy; urgency=medium
+
+  * Bumped version to 5.0.0-beta.1b.
+  * Fixed
+    - Fixed HiPS survey list requests.
+    - Removed vulnerabilities.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 19 Feb 2025 07:30:08 +0200
+
 carta-frontend-beta (5.0+2025.2.14-1~jammy1) jammy; urgency=medium
 
   * Bumped version to 5.0.0-beta.1.
