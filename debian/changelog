@@ -1,3 +1,11 @@
+carta-frontend-beta (5.0+2025.7.31-1~jammy1) jammy; urgency=medium
+
+  * Bumped version to 5.0.3.
+  * Fixed
+    - Fixed flux density unit display in spectral profile for images with brightness temperature (K) (#2572).
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 31 Jul 2025 11:08:45 +0200
+
 carta-frontend-beta (5.0+2025.7.22-1~jammy1) jammy; urgency=medium
 
   * Bumped version to 5.0.2.
